@@ -2,7 +2,7 @@
 ## Unsupervised Domain Adaptation:
 - **Exploiting Both Domain-specific and Invariant Knowledge via a Win-win Transformer for Unsupervised Domain Adaptation，Tsinghua，DeepAI Arxiv**
     Deit as baseline, two class token in deit were used on source/target domain respectively.
-- **Delving Deep into the Generalization of Vision Transformers under Distribution Shifts**
+- **CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation**: feature alignment based on the cross attention between source and target. 
     
 ## Normalisation
 - **PowerNorm: Rethinking Batch Normalization in Transformers, UC berkeley** calculate quadratic mean as normalisation
